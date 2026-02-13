@@ -64,8 +64,11 @@ I specialize in **infrastructure automation, CI/CD, Kubernetes**, and I’m acti
 ---
 
 ## 🤝 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/beingafrozhussain) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afrozhussain/)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/hussainaphroj) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussainaphroj@gmail.com)
 
-- 💼 **LinkedIn**: https://www.linkedin.com/in/afrozhussain/
 ---
 
 ⭐️ *Building scalable systems. Automating everything. Exploring AI for smarter operations.*
