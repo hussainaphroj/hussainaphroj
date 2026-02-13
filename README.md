@@ -6,17 +6,6 @@ I’m a DevOps Engineer focused on building, automating, and operating **cloud-n
 I specialize in **infrastructure automation, CI/CD, Kubernetes**, and I’m actively exploring **AI-powered DevOps (AIOps)** to improve reliability, observability, and operational efficiency.
 
 ---
-
-## 🧠 Core Focus Areas
-
-- Cloud-native **Microservices Architecture**
-- Kubernetes & Container Platforms
-- CI/CD & Infrastructure as Code
-- Observability & Reliability Engineering
-- AI-driven Automation for DevOps & Operations
-
----
-
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud, Containers & Microservices
@@ -64,6 +53,19 @@ I specialize in **infrastructure automation, CI/CD, Kubernetes**, and I’m acti
 - AI-assisted monitoring, alerting & self-healing
 - Python + APIs for AI-enabled DevOps workflows
 
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hussainaphroj&show_icons=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=hussainaphroj)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussainaphroj&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 **LinkedIn**: https://www.linkedin.com/in/afrozhussain/
 ---
 
 ⭐️ *Building scalable systems. Automating everything. Exploring AI for smarter operations.*
