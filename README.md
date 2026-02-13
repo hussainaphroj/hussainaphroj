@@ -6,6 +6,14 @@ I’m a DevOps Engineer focused on building, automating, and operating **cloud-n
 I specialize in **infrastructure automation, CI/CD, Kubernetes**, and I’m actively exploring **AI-powered DevOps (AIOps)** to improve reliability, observability, and operational efficiency.
 
 ---
+
+## 🤝 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/beingafrozhussain) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afrozhussain/)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/hussainaphroj) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussainaphroj@gmail.com)
+
+---
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud, Containers & Microservices
@@ -57,18 +65,9 @@ I specialize in **infrastructure automation, CI/CD, Kubernetes**, and I’m acti
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hussainaphroj&show_icons=true&theme=default)
-![GitHub Streak](https://streak-stats.demolab.com?user=hussainaphroj)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussainaphroj&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hussainaphroj&show_icons=true&theme=default)
+![](https://streak-stats.demolab.com?user=hussainaphroj)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hussainaphroj&layout=compact)
 
 ---
-
-## 🤝 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/beingafrozhussain) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afrozhussain/)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/hussainaphroj) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussainaphroj@gmail.com)
-
----
-
 ⭐️ *Building scalable systems. Automating everything. Exploring AI for smarter operations.*
